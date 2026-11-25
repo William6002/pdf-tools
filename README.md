@@ -1,6 +1,7 @@
 # FERRAMENTA DE PDF
-A ferramenta pdf tools utiliza a blblioteca python "pypdf", para a manipulação de arquivos PDFs, e streamlit para criar uma interface web disponível na rede local com o comando:
-'streamlit run pdf_toolkit_app.py'
+A ferramenta pdf tools utiliza a blblioteca python "pypdf", para a manipulação de arquivos PDFs, e "streamlit" para criar uma interface web disponível na rede local com o comando:
+
+`streamlit run pdf_toolkit_app.py`
 
 ## funcionalidades
 - Juntar múltiplos PDFs em um único arquivo
